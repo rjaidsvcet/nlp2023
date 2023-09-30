@@ -6,3 +6,4 @@ List of experiments is as follows :
 - Experiment 02 ~ Apply various text preprocessing techniques for any given text: Tokenization and Filtration & Script Validation.
 - Experiment 03 ~ Apply various other text preprocessing techniques for any given text: Stop Word Removal, Lemmatization / Stemming.
 - Experiment 04 ~ Implement N-Gram model for the given text input.
+- Experiment 05 ~ Study the different POS taggers and Perform POS tagging on the given text.
