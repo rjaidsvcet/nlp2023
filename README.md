@@ -7,3 +7,6 @@ List of experiments is as follows :
 - Experiment 03 ~ Apply various other text preprocessing techniques for any given text: Stop Word Removal, Lemmatization / Stemming.
 - Experiment 04 ~ Implement N-Gram model for the given text input.
 - Experiment 05 ~ Study the different POS taggers and Perform POS tagging on the given text.
+- Experiment 06 ~ Perform chunking by analyzing the importance of selecting proper features for training a model and size of training.
+- Experiment 07 ~ Implement Named Entity Recognizer for the given text input
+- Experiment 08 ~ Implement word sense disambiguation using LSTM/GRU
